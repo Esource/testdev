@@ -7,3 +7,4 @@ Latte
 Uova
 Mele
 Cannella
+Panna
